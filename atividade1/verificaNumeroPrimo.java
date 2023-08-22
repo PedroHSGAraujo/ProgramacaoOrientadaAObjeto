@@ -1,4 +1,4 @@
-public class verifica {
+public class verificaNumeroPrimo {
     public static void main(String[] args) {
         int num = verificaPrimo(10);
         System.out.println(num);
