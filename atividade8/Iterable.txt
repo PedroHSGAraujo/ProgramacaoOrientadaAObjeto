@@ -1,0 +1,10 @@
+Iterable<String> iterable = new ArrayList<String>();
+
+// Adicionando elementos
+((ArrayList<String>) iterable).add("Elemento 1");
+((ArrayList<String>) iterable).add("Elemento 2");
+
+// Usando for-each para iterar
+for (String s : iterable) {
+    System.out.println(s);
+}

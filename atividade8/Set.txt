@@ -1,0 +1,8 @@
+Set<String> set = new HashSet<String>();
+
+// Adicionando elementos
+set.add("Elemento 1");
+set.add("Elemento 2");
+
+// Verificando se um elemento existe
+boolean exists = set.contains("Elemento 1");

@@ -1,0 +1,8 @@
+Queue<String> queue = new LinkedList<String>();
+
+// Adicionando elementos
+queue.add("Elemento 1");
+queue.add("Elemento 2");
+
+// Removendo o elemento da frente
+String front = queue.poll();

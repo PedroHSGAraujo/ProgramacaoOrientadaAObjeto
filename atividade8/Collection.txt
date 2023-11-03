@@ -1,0 +1,8 @@
+Collection<String> collection = new ArrayList<String>();
+
+// Adicionando elementos
+collection.add("Elemento 1");
+collection.add("Elemento 2");
+
+// Removendo elementos
+collection.remove("Elemento 1");

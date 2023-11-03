@@ -1,0 +1,8 @@
+Map<String, String> map = new HashMap<String, String>();
+
+// Adicionando elementos
+map.put("Chave 1", "Valor 1");
+map.put("Chave 2", "Valor 2");
+
+// Recuperando um valor
+String value = map.get("Chave 1");

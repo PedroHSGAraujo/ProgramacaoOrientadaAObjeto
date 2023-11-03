@@ -1,0 +1,8 @@
+List<String> list = new ArrayList<String>();
+
+// Adicionando elementos
+list.add("Elemento 1");
+list.add("Elemento 2");
+
+// Recuperando elementos
+String element = list.get(0);
